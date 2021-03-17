@@ -1,8 +1,6 @@
 
 /*
 Name: Ulisses Tapia
-Class: CSC 447
-#Date: 2/21/2018
 File Name: RSA.java
 Description: encrypts a message inputted by the user based off of two prime numbers inputted by the user as well.
 Example output:
